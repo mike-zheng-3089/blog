@@ -1,0 +1,4 @@
+1、关系型数据库
+2、三范式：原子性，依赖性，
+3、权限表：user>db>table>colum
+4、数据类型：整型：int；实数：float、double、decimal；日期类型：date、time、datetime。枚举类型：ENUM；字符串：char、varchar、text 
